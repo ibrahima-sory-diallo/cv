@@ -1,0 +1,49 @@
+
+body{
+    display: flex;
+    position: absolute;
+    margin-right: 300px;
+}
+img{
+    float: left;
+    width: 40%;
+    margin-right: 5px;
+    padding-bottom: 20px;
+}
+header{
+   background-color: aqua;
+   width: 30%;
+   padding-bottom: 300px;
+   border: groove rgb(51, 14, 14);
+}
+h1{
+    color: white;
+    font-family: sans-serif;
+    font-style: italic;
+}
+.entete{
+    background-color: darkblue;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    color: white;
+}
+.profil{
+    margin: 40px;
+    padding-top: 20px;
+    font-weight: bolder;
+}
+h2{
+    color: darkblue;
+    font-size: 40px;
+    border-top:  solid royalblue;
+}
+section{
+    padding-left: 30px;
+    background-color: aliceblue;
+    padding-bottom: 150px;
+    border: groove rgb(51, 14, 14);
+}
+li{
+    list-style-type: none;
+}
